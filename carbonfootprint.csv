@@ -1,0 +1,76 @@
+Transport,Distance,Electricity,Diet,Waste,Recycling
+Car,18,7,Non-Veg,4,No
+Bike,9,4,Veg,2,Yes
+Public Transport,12,5,Veg,2,Yes
+Car,22,8,Non-Veg,5,No
+Walk,3,2,Veg,1,Yes
+Bike,11,5,Non-Veg,3,No
+Car,16,6,Non-Veg,3,No
+Public Transport,9,4,Veg,2,Yes
+Walk,2,2,Veg,1,Yes
+Bike,8,3,Veg,2,Yes
+Car,20,7,Non-Veg,4,No
+Bike,10,5,Veg,2,Yes
+Public Transport,14,6,Veg,3,Yes
+Car,25,9,Non-Veg,5,No
+Walk,4,2,Veg,1,Yes
+Bike,7,3,Non-Veg,2,No
+Car,19,6,Non-Veg,3,No
+Public Transport,11,5,Veg,2,Yes
+Walk,3,2,Veg,1,Yes
+Bike,9,4,Veg,2,Yes
+Car,21,8,Non-Veg,4,No
+Bike,12,5,Veg,3,Yes
+Public Transport,13,6,Veg,3,Yes
+Car,24,9,Non-Veg,5,No
+Walk,2,2,Veg,1,Yes
+Car,18,7,Non-Veg,4,No
+Bike,9,4,Veg,2,Yes
+Public Transport,12,5,Veg,2,Yes
+Car,22,8,Non-Veg,5,No
+Walk,3,2,Veg,1,Yes
+Bike,11,5,Non-Veg,3,No
+Car,16,6,Non-Veg,3,No
+Public Transport,9,4,Veg,2,Yes
+Walk,2,2,Veg,1,Yes
+Bike,8,3,Veg,2,Yes
+Car,20,7,Non-Veg,4,No
+Bike,10,5,Veg,2,Yes
+Public Transport,14,6,Veg,3,Yes
+Car,25,9,Non-Veg,5,No
+Walk,4,2,Veg,1,Yes
+Bike,7,3,Non-Veg,2,No
+Car,19,6,Non-Veg,3,No
+Public Transport,11,5,Veg,2,Yes
+Walk,3,2,Veg,1,Yes
+Bike,9,4,Veg,2,Yes
+Car,21,8,Non-Veg,4,No
+Bike,12,5,Veg,3,Yes
+Public Transport,13,6,Veg,3,Yes
+Car,24,9,Non-Veg,5,No
+Walk,2,2,Veg,1,Yes
+Car,21,7,Non-Veg,4,No
+Bike,12,5,Veg,3,Yes
+Public Transport,13,6,Veg,3,Yes
+Car,24,8,Non-Veg,5,No
+Walk,2,2,Veg,1,Yes
+Bike,8,3,Non-Veg,2,No
+Car,17,6,Non-Veg,3,No
+Public Transport,10,4,Veg,2,Yes
+Walk,3,2,Veg,1,Yes
+Bike,9,4,Veg,2,Yes
+Car,23,8,Non-Veg,5,No
+Bike,11,5,Veg,2,Yes
+Public Transport,12,5,Veg,2,Yes
+Car,26,9,Non-Veg,5,No
+Walk,4,2,Veg,1,Yes
+Bike,7,3,Non-Veg,2,No
+Car,18,6,Non-Veg,3,No
+Public Transport,11,5,Veg,2,Yes
+Walk,2,2,Veg,1,Yes
+Bike,8,4,Veg,2,Yes
+Car,22,8,Non-Veg,4,No
+Bike,10,5,Veg,3,Yes
+Public Transport,14,6,Veg,3,Yes
+Car,25,9,Non-Veg,5,No
+Walk,3,2,Veg,1,Yes
